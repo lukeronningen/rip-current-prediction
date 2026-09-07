@@ -26,11 +26,10 @@ Rip currents kill more Americans each year than hurricanes, tornadoes, or lightn
 ```
 ├── README.md
 ├── rip_current_prediction.ipynb   # Full analysis notebook (runs in Google Colab)
-├── charts/
-│   ├── feature_importance.png
-│   ├── confusion_matrices.png
-│   ├── model_comparison.png
-│   └── conditions_by_risk.png
+├── feature_importance.png
+├── confusion_matrices.png
+├── model_comparison.png
+└── conditions_by_risk.png
 ```
 
 ## Run It Yourself
